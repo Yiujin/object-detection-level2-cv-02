@@ -122,6 +122,6 @@ ensemble_method : Weighted Boxes Fusion
 |:---------------:|:------------------:|
 |Hybrid Task Cascade| [README](https://github.com/boostcampaitech2/object-detection-level2-cv-02/tree/develop/template/mmdetection/configs/custom/models/htc)
 | CasCade R-CNN | [README](https://github.com/boostcampaitech2/object-detection-level2-cv-02/tree/develop/template/mmdetection/configs/custom/models/cascade_rcnn) |
-| Faster R-CNN | [READEM](https://github.com/boostcampaitech2/object-detection-level2-cv-02/tree/develop/template/mmdetection/configs/custom/models/faster_rcnn)
+| Faster R-CNN | [README](https://github.com/boostcampaitech2/object-detection-level2-cv-02/tree/develop/template/mmdetection/configs/custom/models/faster_rcnn)
 
 
